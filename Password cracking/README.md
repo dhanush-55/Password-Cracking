@@ -1,1 +1,1 @@
-# Ethical-Hacking-Projects-for-beginners
+# Ethical-Hacking-Project-for-beginners
