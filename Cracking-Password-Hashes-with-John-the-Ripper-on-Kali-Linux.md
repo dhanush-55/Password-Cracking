@@ -1,4 +1,4 @@
-# Project 3: Cracking Password Hashes with John the Ripper on Kali Linux
+# Project : Cracking Password Hashes with John the Ripper on Kali Linux
 
 ## Introduction
 In this project, you will learn how to use John the Ripper, a powerful password-cracking tool, to crack password hashes. Cracking password hashes is an essential skill for ethical hackers, as it helps in identifying weak passwords and improving overall security. By the end of this project, you will be able to perform basic password cracking and understand the importance of strong passwords.
